@@ -1,0 +1,29 @@
+{
+  "name": "parser-inject",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zhyjor <zhyjor@163.com>",
+  "homepage": "https://github.com/zhyjor/deep-babel#readme",
+  "license": "ISC",
+  "main": "lib/parser-inject.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npm.taobao.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhyjor/deep-babel.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/zhyjor/deep-babel/issues"
+  }
+}
